@@ -1,0 +1,19 @@
+{
+    "name": "ironlog-esp32-pio",
+    "version": "0.2.6",
+    "description": "A tool to log multiple devices to a web browser",
+    "keywords": ["keywords", "for", "your", "library"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/heety313/ironlog-esp32-pio"
+    },
+    "authors": [
+      {
+        "name": "heety",
+        "email": "heety313@example.com"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": ["arduino"],
+    "platforms": ["esp8266", "esp32"]
+  }
